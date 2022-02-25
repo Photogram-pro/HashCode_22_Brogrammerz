@@ -1,1 +1,1 @@
-zip -r code.zip src/
+zip -r out/code.zip src/
